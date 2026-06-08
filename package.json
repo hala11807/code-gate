@@ -1,6 +1,6 @@
 {
   "name": "code-gate",
-  "version": "0.1.24",
+  "version": "0.1.25",
   "description": "Intelligent Git commit code reviewer. Supports local (Ollama) and cloud models (DeepSeek, OpenAI, Anthropic) with a rich CLI UI.                        \u672c\u5730AI\u667a\u80fd Git \u63d0\u4ea4\u4ee3\u7801\u5ba1\u67e5\u5de5\u5177\u3002\u652f\u6301\u4f7f\u7528\u672c\u5730 (Ollama) \u53ca\u4e91\u7aef\u6a21\u578b (DeepSeek, OpenAI, Anthropic)\uff0c\u63d0\u4f9b\u4e30\u5bcc\u7684 CLI \u4ea4\u4e92\u754c\u9762\u3002",
   "main": "src/index.ts",
   "scripts": {
